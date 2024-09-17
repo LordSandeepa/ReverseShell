@@ -1,3 +1,4 @@
+**How To Use**
 
 - Clone Those Python Files For Your Local Machine.
 - to Host This Reverse shell files you must have a **server** (AWS,Digital).
@@ -14,4 +15,4 @@
 Use This Only For Educational Purpose or with client's Permission
 *Because Hacking is illegal*
 
-Developed With Python+Chatgpt By **LordSandeepa**
+Developed With Python + Chatgpt + ReverseShell concept By **LordSandeepa**
