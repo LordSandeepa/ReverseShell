@@ -1,4 +1,19 @@
 Programmed Socket
+
+Python Code
+![Capture 1](https://github.com/user-attachments/assets/730bb667-4f5f-4320-8f2e-c58bd6bb178e)
+
+PuTTY configuration
+![Capture 2](https://github.com/user-attachments/assets/da63f402-e965-4c82-9945-2b3fdb266872)
+
+Remote Access Done !
+![Capture 3](https://github.com/user-attachments/assets/fb3e2353-e573-4e0d-8d91-b97655272287)
+
+
+
+
+
+
 **How To Use**
 
 - Clone Those Python Files For Your Local Machine.
